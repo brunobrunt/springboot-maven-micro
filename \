@@ -10,8 +10,7 @@
 	</parent>
 	<groupId>com.cloudtechmasters</groupId>
 	<artifactId>springboot-maven-micro-svc</artifactId>
-	<version>0.0.2</version> <!-- This creates a release version of our Artifact -->
-	<!--This creates a 0.0.1-SNAPSHOTversion -->
+	<version>0.0.2</version>  <!--this creates a 0.0.1-SNAPSHOT version -->
 	<name>springboot-maven-micro-svc</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
